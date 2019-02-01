@@ -8,7 +8,7 @@ char* My_Strcpy(char* dest,const char* src)
   assert(src);
   while(*dest++ = *src++)
   {
-
+    ;
   }
 }
 int main()
